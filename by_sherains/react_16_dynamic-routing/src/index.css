@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+h2{
+    font-size: 5rem;
+    background-color: blueviolet;
+    color: chocolate;
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    transform: translate(-50% -50%);
+    white-space: nowrap;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+h1{
+    font-size: 5rem;
+    background-color: blueviolet;
+    color: chocolate;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50% -50%);
+    white-space: nowrap;
+    border-radius: 1rem;
+    padding: 1rem;
+}

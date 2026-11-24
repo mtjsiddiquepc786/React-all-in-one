@@ -1,0 +1,17 @@
+.head{
+  margin: 15px;
+  height: 100px;
+  width: 100px;
+  font-size: 80px;
+  color: aliceblue;
+  background-color: rgb(79, 79, 79);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  margin: 4px;
+  background-color: aqua;
+  border-radius: 10%;
+}
